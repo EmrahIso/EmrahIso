@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/emrah-isovic-380127353">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:emrahisovic20">
+<a href="mailto:emrahisovic20@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://emrahiso.github.io/Portfolio/">
@@ -17,7 +17,7 @@
 <div style="margin-top:48px;"></div>
 <h1 align="center">Welcome everyone 👋</h1>
 <div style="margin-top:32px;"></div>
-<p align="center"><strong>My name is Emrah Isovic</strong></p>
+<p align="center"><strong>My name is Emrah Isović</strong></p>
 
 <br></br>
 
