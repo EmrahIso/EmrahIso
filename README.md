@@ -10,9 +10,6 @@
 <a href="mailto:emrahisovic20@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://emrahiso.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-%234B5563?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-</a>
 </div>
 <div style="margin-top:48px;"></div>
 <h1 align="center">Welcome everyone 👋</h1>
