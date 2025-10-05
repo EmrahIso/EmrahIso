@@ -19,7 +19,7 @@
 
 <br></br>
 
-### Texh Stack: 
+### Tech Stack: 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
@@ -38,7 +38,7 @@
 
 <div style="margin-top:48px;"></div>
 
-<section style="font-size:14px;">🔭 My recent work<br>I'm creating my personal Portfolio.<br><br>👯 I’m looking to collaborate on<br>Open-source front-end projects, especially those involving React and TypeScript.<br><br>🌱 I’m currently learning<br>Next.js Framework.<br><br>🌍 Community Involvement<br>I'm mostly active within the React and The Odin Project Community.<br><br>⚡ Fun fact<br>I’m 17 years old and still in high school, but I already build full-fledged web projects — and I genuinely enjoy every minute of it!<br><br>📌 Where I’m from<br>Sarajevo, Bosnia and Herzegovina 🇧🇦</section>
+<section style="font-size:14px;">🔭 My recent work<br>I’m currently working on my personal portfolio.<br><br>👯 I’m looking to collaborate on<br>Open-source front-end projects, especially those involving React and TypeScript.<br><br>🌱 I’m currently learning<br>Next.js Framework.<br><br>🌍 Community Involvement<br>I’d love to collaborate on open-source front-end projects, especially those involving React and TypeScript.<br><br>⚡ Fun fact<br>I’m 17 years old and still in high school, but I already build full-fledged web projects — and genuinely enjoy every minute of it!<br><br>📌 Where I’m from<br>Sarajevo, Bosnia and Herzegovina 🇧🇦</section>
 
 <br></br>
 
