@@ -17,7 +17,7 @@ React • TypeScript • Node.js • Express • PostgreSQL
 </p>
 
 <p align="center">
-  <a href="https://emrahiso-cvision.dev/"><strong>🌐 Personal Website</strong></a>
+  <a href="https://emrahisovic.vercel.app/"><strong>🌐 Personal Website</strong></a>
 </p>
 
 <br>
