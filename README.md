@@ -64,20 +64,12 @@ Currently progressing through **The Odin Project – Full Stack JavaScript**, wh
 ![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-gray?style=for-the-badge)
 
-- REST APIs  
-- Authentication  
-- MVC structure  
-- Server-side rendering  
 
 <br>
 
 ### 🗄 Database
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- schema design  
-- relations & joins  
-- CRUD operations  
-- query optimization basics  
 
 <br>
 
