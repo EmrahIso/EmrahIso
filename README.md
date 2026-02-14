@@ -95,16 +95,5 @@ Currently progressing through **The Odin Project – Full Stack JavaScript**, wh
 
 <br>
 
-
-## 🤝 Open To
-
-- Junior Full-Stack roles
-- Backend or Frontend roles
-- Freelance projects
-- Open-source collaboration
-
-<br>
-
-
 ## 📍 Location
 Sarajevo, Bosnia and Herzegovina 🇧🇦
